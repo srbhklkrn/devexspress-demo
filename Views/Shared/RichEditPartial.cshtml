@@ -1,0 +1,4 @@
+@Html.DevExpress().RichEdit(settings => {
+    settings.Name = "RichEdit";
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "RichEditPartial" };
+    }).Open(Server.MapPath("~/App_Data/Documents/sample.rtf")).GetHtml()

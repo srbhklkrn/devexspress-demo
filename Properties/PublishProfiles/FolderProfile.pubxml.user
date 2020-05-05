@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Code\SampleDevExpress\RichEditorDemo\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.DataAccess.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:22</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Office.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Pdf.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.PivotGrid.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Printing.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.RichEdit.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Sparkline.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Spreadsheet.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxDiagram.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxHtmlEditor.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxRichEdit.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxScheduler.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxSpellChecker.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxSpreadsheet.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.ASPxTreeList.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.Resources.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:35</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Web.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Xpo.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraCharts.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraGauges.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraReports.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraReports.v19.2.Web.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraScheduler.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Charts.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeParser.v19.2.dll">
+      <publishTime>05/04/2020 12:11:21</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v19.2.dll">
+      <publishTime>05/04/2020 12:11:23</publishTime>
+    </File>
+    <File Include="bin/DevExpress.DataAccess.v19.2.dll">
+      <publishTime>05/04/2020 12:11:22</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Images.v19.2.dll">
+      <publishTime>05/04/2020 12:11:26</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.PivotGrid.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v19.2.Export.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Sparkline.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.SpellChecker.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Spreadsheet.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxDiagram.v19.2.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxGantt.v19.2.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxHtmlEditor.v19.2.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxPivotGrid.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxRichEdit.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxScheduler.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxSpellChecker.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxSpreadsheet.v19.2.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxThemes.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxTreeList.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.Mvc5.v19.2.dll">
+      <publishTime>05/04/2020 12:11:30</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.Resources.v19.2.dll">
+      <publishTime>05/04/2020 12:11:35</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v19.2.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Xpo.v19.2.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v19.2.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v19.2.Web.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraGauges.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v19.2.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v19.2.Web.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v19.2.Web.WebForms.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraScheduler.v19.2.Core.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/DevExtreme.AspNet.Data.dll">
+      <publishTime>10/04/2019 10:42:48</publishTime>
+    </File>
+    <File Include="bin/DevExtreme.AspNet.Mvc.dll">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:23</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.DataAccess.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:22</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Office.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Pdf.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.PivotGrid.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Printing.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.RichEdit.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Sparkline.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Spreadsheet.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxDiagram.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxHtmlEditor.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxRichEdit.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxScheduler.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxSpellChecker.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxSpreadsheet.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.ASPxTreeList.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.Resources.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:35</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Web.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Xpo.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraCharts.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraGauges.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraReports.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraReports.v19.2.Web.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraScheduler.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:23</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.DataAccess.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:22</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Office.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Pdf.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.PivotGrid.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Printing.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.RichEdit.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Sparkline.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Spreadsheet.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxDiagram.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxHtmlEditor.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxRichEdit.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxScheduler.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxSpellChecker.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxSpreadsheet.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.ASPxTreeList.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.Resources.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:35</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Web.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Xpo.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraCharts.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraGauges.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraReports.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraReports.v19.2.Web.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraScheduler.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="bin/RichEditorDemo.dll">
+      <publishTime>05/04/2020 16:44:54</publishTime>
+    </File>
+    <File Include="bin/RichEditorDemo.pdb">
+      <publishTime>05/04/2020 16:44:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 08:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 08:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:23</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.DataAccess.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:22</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Office.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Pdf.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.PivotGrid.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Printing.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.RichEdit.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Sparkline.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Spreadsheet.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxDiagram.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxHtmlEditor.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:18</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxRichEdit.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxScheduler.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxSpellChecker.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxSpreadsheet.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:33</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.ASPxTreeList.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.Resources.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:35</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Web.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:19</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Xpo.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:38</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraCharts.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraGauges.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraReports.v19.2.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraReports.v19.2.Web.resources.dll">
+      <publishTime>05/04/2020 12:11:39</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraScheduler.v19.2.Core.resources.dll">
+      <publishTime>05/04/2020 12:11:40</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/28/2018 13:00:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/28/2018 12:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/28/2018 13:01:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/28/2018 11:59:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 14:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2018 12:00:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/28/2018 12:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/28/2018 12:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/28/2018 12:04:24</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 12:57:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Content/dx-diagram.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx-diagram.min.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx-gantt.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx-gantt.min.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.carmine.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.carmine.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.common.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.contrast.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.contrast.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.darkmoon.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.darkmoon.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.darkviolet.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.darkviolet.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.greenmist.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.greenmist.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.ios7.default.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.blue.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.blue.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.blue.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.blue.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.lime.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.lime.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.lime.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.lime.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.orange.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.orange.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.orange.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.orange.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.purple.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.purple.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.purple.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.purple.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.teal.dark.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.teal.dark.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.teal.light.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.material.teal.light.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.softblue.compact.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/dx.softblue.css">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-300.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-300.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-300.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-400.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-400.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-400.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-500.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-500.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-500.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-700.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-700.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/fonts/Roboto-700.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxicons.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxicons.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxicons.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsios.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsios.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsios.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsmaterial.ttf">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsmaterial.woff">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/icons/dxiconsmaterial.woff2">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>05/04/2020 16:44:45</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/04/2020 14:07:11</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/04/2020 14:07:11</publishTime>
+    </File>
+    <File Include="Scripts/aspnet/dx.aspnet.data.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/aspnet/dx.aspnet.mvc.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/cldr.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/event.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/event.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/supplemental.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/supplemental.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/unresolved.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/cldr/unresolved.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx-diagram.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx-diagram.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx-gantt.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx-gantt.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.all.debug.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.all.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.viz-web.debug.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.viz-web.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.viz.debug.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.viz.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.web.debug.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/dx.web.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/currency.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/currency.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/date.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/date.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/message.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/message.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/number.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/globalize/number.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>05/04/2020 14:07:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>05/04/2020 14:07:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>05/04/2020 14:07:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>05/04/2020 14:07:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>05/04/2020 14:07:18</publishTime>
+    </File>
+    <File Include="Scripts/jszip.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/jszip.min.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.cs.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.de.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.el.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.en.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.es.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.fi.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.fr.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.hu.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.it.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.ja.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.nl.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.pt.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.ru.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.sl.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.sv.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.tr.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.vi.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/localization/dx.messages.zh.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>05/04/2020 14:07:17</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/africa.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/canada.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/eurasia.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/europe.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/usa.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-data/world.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-utils/dx.vectormaputils.debug.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-utils/dx.vectormaputils.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Scripts/vectormap-utils/dx.vectormaputils.node.js">
+      <publishTime>05/04/2020 12:09:21</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>05/04/2020 14:07:11</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>05/04/2020 14:07:11</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/04/2020 15:42:53</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>05/04/2020 14:07:11</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/04/2020 16:04:40</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/04/2020 15:57:00</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>05/04/2020 14:45:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/04/2020 16:01:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
